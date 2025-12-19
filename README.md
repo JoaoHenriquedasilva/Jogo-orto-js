@@ -20,6 +20,7 @@ O Orto é um jogo de estratégia para dois jogadores (Azul e Verde) em um tabule
 
 ## 🚀 Como Executar
 Basta clonar o repositório e abrir o arquivo `index.html` em qualquer navegador moderno. Não é necessário instalar dependências externas.
+Também pode acessar esse link: https://joaohenriquedasilva.github.io/Jogo-orto-js/
 
 ---
 Desenvolvido por João Henrique da Silva, estudante de análise e desenvolvimento de sistemas 
